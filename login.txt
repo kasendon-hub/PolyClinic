@@ -1,0 +1,3 @@
+Admin login (or Receptionist) Username : andalis@my.cspc.edu.ph Password : admin
+
+Doctor login (or Receptionist) Username : hegde@gmail.com Password : hegde123

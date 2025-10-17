@@ -1,0 +1,16 @@
+admin nald
+Andalis@gmail.com
+admin
+
+doctor sendon
+kath@gmail.com
+doctor 
+
+
+patient1 erika
+erika@gmail.com
+patient1
+
+patient2 crisia
+crisia@gmail.com
+patient2
